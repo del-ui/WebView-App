@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         web.setWebViewClient(new Callback());
         web.getSettings().setLoadWithOverviewMode(true);
         web.getSettings().setUseWideViewPort(true);
-        web.loadUrl("https://del-ui.github.io/kamauvictor.github.io/");
+        web.loadUrl("https://vfabtech.rf.gd/");
 
     }
 
